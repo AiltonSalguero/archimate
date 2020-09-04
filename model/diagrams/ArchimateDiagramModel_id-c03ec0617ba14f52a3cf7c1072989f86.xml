@@ -1,4 +1,30 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Default View"
-    id="id-c03ec0617ba14f52a3cf7c1072989f86"/>
+    name="minsa"
+    id="id-c03ec0617ba14f52a3cf7c1072989f86">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-a3a8dd57a89149e98c0ee9b820d161fe">
+    <bounds
+        x="216"
+        y="180"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-c8a35a9eec7d4ef6b0ce128ca85d8217.xml#id-c8a35a9eec7d4ef6b0ce128ca85d8217"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-974bb9439a574ad4a7fc0ca2254bc8ce">
+    <bounds
+        x="23"
+        y="137"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessEvent"
+        href="BusinessEvent_id-3658d8f41a5c418b807c21757cc4ed46.xml#id-3658d8f41a5c418b807c21757cc4ed46"/>
+  </children>
+</archimate:ArchimateDiagramModel>
