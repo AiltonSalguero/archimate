@@ -1,0 +1,13 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SRV 10"
+    id="id-f223b20adec743b5a23f4b7ec5f63a5f">
+  <properties
+      key="MARCA"/>
+  <properties
+      key="SO"
+      value="WINDOWS SERVER"/>
+  <properties
+      key="HDD"
+      value="140 GB"/>
+</archimate:Node>

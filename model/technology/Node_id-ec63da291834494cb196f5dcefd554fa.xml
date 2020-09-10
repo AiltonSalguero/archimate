@@ -1,0 +1,14 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SRV 06"
+    id="id-ec63da291834494cb196f5dcefd554fa">
+  <properties
+      key="MARCA"
+      value="HP"/>
+  <properties
+      key="SO"
+      value="UBUNTU SERVER"/>
+  <properties
+      key="HDD"
+      value="180 GB"/>
+</archimate:Node>

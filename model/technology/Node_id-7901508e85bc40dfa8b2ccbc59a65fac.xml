@@ -1,0 +1,15 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SRV 04"
+    id="id-7901508e85bc40dfa8b2ccbc59a65fac">
+  <properties
+      key="MARCA"
+      value="ADVANCE"/>
+  <properties
+      key="SO"
+      value="UBUNTU SERVER"/>
+  <properties
+      key="HDD"
+      value="80 GB"/>
+  <properties/>
+</archimate:Node>

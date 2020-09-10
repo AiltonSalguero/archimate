@@ -1,0 +1,14 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SRV 12"
+    id="id-39b1ff0fef3343c4b1011eddd774b48a">
+  <properties
+      key="MARCA"
+      value="OPTIPLEX 780"/>
+  <properties
+      key="SO"
+      value="CENTOS 5.6"/>
+  <properties
+      key="HDD"
+      value="300 GB"/>
+</archimate:Node>

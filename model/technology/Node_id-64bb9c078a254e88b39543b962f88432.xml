@@ -1,0 +1,14 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SRV 03"
+    id="id-64bb9c078a254e88b39543b962f88432">
+  <properties
+      key="MARCA"
+      value="DELL"/>
+  <properties
+      key="SO"
+      value="WINDOWS SERVER"/>
+  <properties
+      key="HDD"
+      value="250 GB"/>
+</archimate:Node>

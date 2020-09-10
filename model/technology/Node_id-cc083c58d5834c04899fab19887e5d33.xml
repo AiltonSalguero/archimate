@@ -1,0 +1,14 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SRV 13"
+    id="id-cc083c58d5834c04899fab19887e5d33">
+  <properties
+      key="MARCA"
+      value="PROLIANT ML350 G3"/>
+  <properties
+      key="SO"
+      value="WINDOWS SERVER"/>
+  <properties
+      key="HDD"
+      value="146.8 GB"/>
+</archimate:Node>
