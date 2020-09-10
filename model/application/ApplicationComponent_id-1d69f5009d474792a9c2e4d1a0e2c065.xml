@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="BSC (Tablero de Indicadores"
-    id="id-1d69f5009d474792a9c2e4d1a0e2c065"/>
+    name="BSC "
+    id="id-1d69f5009d474792a9c2e4d1a0e2c065"
+    documentation="Tablero de Indicadores de funcionamiento, evaluaciones de establecimientos de salud"/>
