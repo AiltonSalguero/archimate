@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Maestros OEI"
-    id="id-6f5207860e9e4950a971e984dc26e92f"/>
+    id="id-6f5207860e9e4950a971e984dc26e92f"
+    documentation="Sistema de Mantenimiento de Establecimientos de Salud del OGS"/>
