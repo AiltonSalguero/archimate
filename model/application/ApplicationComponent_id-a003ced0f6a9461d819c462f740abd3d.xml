@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="RCSR"
-    id="id-a003ced0f6a9461d819c462f740abd3d"/>
+    id="id-a003ced0f6a9461d819c462f740abd3d"
+    documentation="Sistema de referencias y contrarreferencias, para coordinación y regulación permanente de las referencias de pacientes en situación de emergencia"/>

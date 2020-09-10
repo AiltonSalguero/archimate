@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SIAF"
-    id="id-6d47973001e14adbaf5bb81c114df4b3"/>
+    id="id-6d47973001e14adbaf5bb81c114df4b3"
+    documentation="Sistema Integrado de Gestión Financiera"/>
