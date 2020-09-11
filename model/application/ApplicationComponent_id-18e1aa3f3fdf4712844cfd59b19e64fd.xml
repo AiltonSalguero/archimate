@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="PLH"
-    id="id-18e1aa3f3fdf4712844cfd59b19e64fd"/>
+    id="id-18e1aa3f3fdf4712844cfd59b19e64fd"
+    documentation="Sistema de Planilla de Haberes"/>

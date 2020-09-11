@@ -4229,10 +4229,10 @@
         id="id-1b93b5b8db7444e8961b51334b5b9cc8"
         targetConnections="id-e8c63f4746064ee58d25ae85683a0fe4 id-8ada7409b8c7472681c1d704d69e5a0d">
       <bounds
-          x="2100"
+          x="2088"
           y="432"
-          width="120"
-          height="55"/>
+          width="131"
+          height="52"/>
       <archimateElement
           xsi:type="archimate:DataObject"
           href="DataObject_id-ece77ced3458412cba5286500d7028ce.xml#id-ece77ced3458412cba5286500d7028ce"/>
